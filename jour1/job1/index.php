@@ -1,7 +1,7 @@
 <?php
 // Création des variables
 $platform = "LaPlateforme";
-$vive = "Vive";
+$vive = "Viva";
 $exclamation = "!";
 
 // Affichage des variables concaténées
@@ -23,4 +23,3 @@ echo $isTrue . "<br>";
 $isTrue = false;
 echo $isTrue . "<br>";
 ?>
-
